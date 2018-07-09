@@ -1,0 +1,245 @@
+{
+	"locations": [
+
+		{
+			"title": "Truth and Virtue",
+			"artist": "Louis Comfort Tiffany",
+			"year": 1920,
+			"material":"Stained Glass, Lead",
+			"latitude": 41.00906,
+			"longitude": -76.445444,
+			"backstoryvideoid": "D_4hizIlImc",
+			"infovideoid":"0uRbYSHN_NM",
+			"info":"Large, intricately handmade mural by the renowned NYC Art-Glass Company. Located on the 2nd floor of Andruss Library.",
+			"images":
+				[{ "filename": "TruthVirtue1.jpg", "caption": "Truth and Virtue" },
+				{ "filename": "TruthVirtue2.jpg", "caption": "Truth and Virtue" }
+			]
+		},
+		{
+			"title": "Standing Tall",
+			"artist": "Loretta Carmel",
+			"year": 1992,
+			"material":"Indiana Limestone",
+			"latitude": 41.009094,
+			"longitude": -76.445525,
+			"backstoryvideoid": "82Uv-MRK7XQ",
+			"infovideoid":"xzsyqk0-tE8",
+			"info":"Hand carved stone featuring abstract textures and perforations.",
+			"images":
+				[{ "filename": "StandingTall.jpg", "caption": "Standing Tall" }]
+		},
+		{
+			"title": "Marble Bench",
+			"artist": "Tom Sternal",
+			"year": 1989,
+			"material":"Marble",
+			"latitude": 41.008890,
+			"longitude": -76.445821,
+			"backstoryvideoid": "TE455A5HBdQ",
+			"infovideoid":"ULSii0V4s_k",
+			"info":"Hand carved marble blocks forming a functional bench.",
+			"images":
+				[{ "filename": "MarbleBench.jpg", "caption": "Marble Bench" }]
+		},
+		{
+			"title": "Stone Benches",
+			"artist": "Peter Hide",
+			"year": 1998,
+			"material":"Granite",
+			"latitude": 41.008996,
+			"longitude": -76.445721,
+			"backstoryvideoid": "6MnLPxWUXf4",
+			"infovideoid":"1bJyKp8PkP8",
+			"info":"Two large opposing stacked stone forms arranged to allow for public seating.",
+			"images":
+				[{ "filename": "StoneBenches.jpg", "caption": "Stone Benches" }]
+		},
+		{
+			"title": "Standing Adolescent",
+			"artist": "Michael Price",
+			"year": 1989,
+			"material":"Bronze",
+			"latitude": 41.008823,
+			"longitude": -76.445592,
+			"backstoryvideoid": "eIzDY84VLAU",
+			"infovideoid":"TzlHw40xEdA",
+			"info":"Full size cast sculpture of a standing nude.",
+			"images":
+				[{ "filename": "StandingAdolescence.jpg", "caption": "Standing Adolescence" }]
+		},
+		{
+			"title": "Endless Circle, Tosh's Bell",
+			"artist": "Toshiko Takaezu",
+			"year": 1987,
+			"material":"Bronze and Wood",
+			"latitude": 41.008738,
+			"longitude": -76.445603,
+			"backstoryvideoid": "kN0__s-NaJs",
+			"infovideoid":"TtqfrT_7iYc",
+			"info":"Japanese style Ceremonial Bell and Arch. Cast by the artist on campus.",
+			"images":
+				[
+					{ "filename": "ToshsBell.jpg", "caption": "Tosh's Bell" }
+				]
+		},
+		{
+			"title": "Totem",
+			"artist": "Ernest Shaw",
+			"year": 1989,
+			"material":"Steel",
+			"latitude": 41.00834327184727,
+			"longitude": -76.44599123559225,
+			"backstoryvideoid": "z5hkFQ-1C9Y",
+			"infovideoid":"aC62PU89-aM",
+			"info":"Hand welded abstract sculpture.",
+			"images":
+			[{ "filename": "Totem.jpg", "caption": "Totem" }]
+		},
+		{
+			"title": "Marble Screen",
+			"artist": "Tom Sternal",
+			"year": 1998,
+			"material":"Marble",
+			"latitude": 41.008567,
+			"longitude": -76.447119,
+			"backstoryvideoid": "xDnmjFJ8rqA",
+			"infovideoid":"NMOA6exc1Ms",
+			"info":"Three large marble panels arranged to create a screen.",
+			"images":
+				[{ "filename": "MarbleScreen.jpg", "caption": "Marble Screen" }]
+		},
+		{
+			"title": "Seated Woman",
+			"artist": "Michael Price",
+			"year": 1989,
+			"material":"Bronze",
+			"latitude": 41.008788,
+			"longitude": -76.446650,
+			"backstoryvideoid": "oFIm8ClP0MY",
+			"infovideoid":"qOg1Azy-Nrg",
+			"info":"Life size cast sculpture depicting a seated woman. Located inside McCormick’s windowed lobby.",
+			"images":
+				[{ "filename": "SeatedWoman.jpg", "caption": "Seated Woman" }]
+		},
+		{
+			"title": "Marble Column",
+			"artist": "Tom Sternal",
+			"year": 1998,
+			"material":"Marble",
+			"latitude": 41.00815631741771,
+			"longitude": -76.44801483260622,
+			"backstoryvideoid": "ofadmCZnWUY",
+			"infovideoid":"g7rCt8ZVSug",
+			"info":"Stacked marble columns with varied visible natural strata.",
+			"images":
+				[{ "filename": "MarbleColumn.jpg", "caption": "Marble Column" }]
+		},
+		{
+			"title": "Horse and Rider",
+			"artist": "Arturo Bassols",
+			"year": 1981,
+			"material":"Steel",
+			"latitude": 41.008483,
+			"longitude": -76.447908,
+			"backstoryvideoid": "IEFK94WZeP4",
+			"infovideoid":"c-oF2yHHQu4",
+			"info":"Welded abstract representation of a Horse and Rider.",
+			"images":
+				[{ "filename": "HorseRider.jpg", "caption": "Horse and Rider" }]
+		},
+		{
+			"title": "King and Queen",
+			"artist": "Tom Sternal",
+			"year": 1998,
+			"material":"Marble and Stone",
+			"latitude": 41.008483,
+			"longitude": -76.447908,
+			"backstoryvideoid": "RsXfGjrAiM4",
+			"infovideoid": "tImSLNQEKaE",
+			"info":"Two opposed, carved blocks, representing Male and Female forms.",
+			"images":
+				[{ "filename": "KingQueen.jpg", "caption": "King and Queen" }]
+		},
+		{
+			"title": "Untitled",
+			"artist": "Tetsuro Sawada",
+			"year": 1971,
+			"material":"Oil Painting",
+			"latitude": 41.00848018700052,
+			"longitude": -76.44886974538007,
+			"backstoryvideoid": "RK97S3vehmQ",
+			"infovideoid":"QSlGtQgqHcs",
+			"info":"Abstract Expressionist painting by a Japanese Master of the form. Located in the stairwell of Haas Center for the Arts.",
+			"images":
+				[{ "filename": "Sawada1.jpg", "caption": "Sawada Painting" },
+				{ "filename": "Sawada2.jpg", "caption": "Sawada Painting" },
+				{ "filename": "Sawada3.jpg", "caption": "Sawada Painting" }]
+		},
+		{
+			"title": "Tonal Sculpture",
+			"artist": "Joe Moss",
+			"year": 1973,
+			"material":"Steel",
+			"latitude": 41.008295,
+			"longitude": -76.448808,
+			"backstoryvideoid": "yJSzpeBKqtA",
+			"infovideoid":"_eqQLv-NUbA",
+			"info":"Standing between the two large forms allows for auditory distortion effects.",
+			"images":
+				[{ "filename": "TonalSculptures.jpg", "caption": "Tonal Sculptures" }]
+		},
+		{
+			"title": "The Grin",
+			"artist": "Paul Lehr",
+			"year": 1998,
+			"material":"Wood and Stone",
+			"latitude": 41.006683,
+			"longitude": -76.450100,
+			"backstoryvideoid": "amBNKvFCsiA",
+			"infovideoid":"bE8xEHgDO-o",
+			"info":"Free form exotic wood sculpture featuring abstract shapes and textures.  Located on the 2nd  oor atrium of Kehr Union.",
+			"images":
+				[{ "filename": "TheGrin.jpg", "caption": "The Grin" }]
+		},
+		{
+			"title": "The Snake",
+			"artist": "Ernest Shaw",
+			"year": 1989,
+			"material":"Steel",
+			"latitude": 41.0068601269537,
+			"longitude": -76.45122803571985,
+			"backstoryvideoid": "yv1DKH_jeFM",
+			"infovideoid":"RWBCj53T_4k",
+			"info":"Tall sculpture composed of separate steel elements welded together on  at base.",
+			"images":
+				[{ "filename": "TheSnake.jpg", "caption": "The Snake" }]
+		},
+		{
+			"title": "Two Elongated Forms",
+			"artist": "James C. Myford",
+			"year": 1980,
+			"material":"Aluminium",
+			"latitude":41.00626319761963,
+			"longitude": -76.45011809616464,
+			"backstoryvideoid": "qWp-wmu9BAQ",
+			"infovideoid":"Pfqmq9l7XSo",
+			"info":"Abstract paired shapes representing Male and Female forms.",
+			"images":
+				[{ "filename": "TwoElongatedForms.jpg", "caption": "Two Elongated Forms" }]
+		},
+		{
+			"title": "Husky",
+			"artist": "E. Richard Bonham",
+			"year": 1984,
+			"material":"Bronze",
+			"latitude": 41.005355,
+			"longitude": -76.450742,
+			"backstoryvideoid": "8JTwDbdUUsQ",
+			"infovideoid":"R_538l_OX48",
+			"info":"Bloomsburg University Mascot - The Husky dog",
+			"images":
+				[{ "filename": "Husky.jpg", "caption": "Husky" }]
+		}	
+	]
+}
